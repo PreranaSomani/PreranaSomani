@@ -1,9 +1,7 @@
 <div align="center">
-  <img src=""C:\Users\PRERANA\Desktop\Resume\Linkedin background.jpg"" alt="Prerana Somani" width="200" style="border-radius: 50%;" />
-</div>
+  <img src="Linkedin background.jpg" alt="Banner" width="100%"/></div>
 
-## 🚀 About Me
-##  About Me
+## 💫 About Me
 Hi, I’m Prerana Somani!🚀  
 An **AI and Data Science enthusiast** with a deep curiosity for solving real-world problems through technology. I enjoy turning data into insights and building intelligent systems that create real impact.
 
